@@ -1,1 +1,3 @@
 # CSE
+
+* store CSE scripts
